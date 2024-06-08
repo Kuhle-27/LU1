@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LU1Application</string>
+    <string name="title">X-MEN</string>
+    <string name="year">2000</string>
+    <string name="director">Director Ntombi</string>
+    <string name="actors">Charles, Julius, Carole, kuhle</string>
+</resources>
